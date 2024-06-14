@@ -159,6 +159,7 @@
   }
 }
 
+/*
 .fade1 {
   animation: fadeIn 1s;
 }
@@ -168,6 +169,7 @@
 .fade3 {
   animation: fadeIn 5s;
 }
+*/
 
 
 /*@media(width < 700px){
